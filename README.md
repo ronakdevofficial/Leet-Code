@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ronakdevofficial/Leet-Code/tree/master/0283-move-zeroes) |
 | [1920-build-array-from-permutation](https://github.com/ronakdevofficial/Leet-Code/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -16,6 +17,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ronakdevofficial/Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ronakdevofficial/Leet-Code/tree/master/0344-reverse-string) |
 ## String
 |  |
