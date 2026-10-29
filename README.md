@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/ronakdevofficial/Leet-Code/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ronakdevofficial/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/ronakdevofficial/Leet-Code/tree/master/0344-reverse-string) |
 ## String
 |  |
